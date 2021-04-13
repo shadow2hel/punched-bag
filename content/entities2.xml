@@ -1,0 +1,6 @@
+<entities anm2root="gfx\" version="5">
+	<entity anm2path="punchedbag.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Punched Bag" numGridCollisionPoints="12" shadowSize="11" stageHP="0" variant="0">
+        <gibs amount="2" blood="1" bone="0" eye="0" gut="3" large="0" />
+		<preload-snd id="146" />
+    </entity>
+</entities>

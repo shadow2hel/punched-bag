@@ -1,0 +1,3 @@
+<items version="1" gfxroot="gfx/items/">
+	<passive cache="" name="Punched Bag" description="Scraped goat" gfx="punchedbag.png" />
+</items>
